@@ -56,7 +56,7 @@ Run the server locally.
 ```bash
 cd computesphere-php-example
 
-docker run -p 8000:8000 computesphere-php-example:v.0.0.1
+docker run -p 8000:80 computesphere-php-example:v.0.0.1
 ```
 
 This runs the server on `localhost:8000`.
